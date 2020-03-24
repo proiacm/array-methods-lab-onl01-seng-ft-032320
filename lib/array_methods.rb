@@ -1,7 +1,6 @@
 def using_include(array, element)
 season_array = ["summer", "fall", "winter", "spring"]
 season_array.include?("autumn")
-season_array.include?("fall")
 end
 
 def using_sort(array)
