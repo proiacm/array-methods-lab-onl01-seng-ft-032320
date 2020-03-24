@@ -1,5 +1,6 @@
 def using_include(array, element)
-
+season_array = ["summer", "fall", "winter", "spring"]
+season_array
 end
 
 def using_sort(array)
