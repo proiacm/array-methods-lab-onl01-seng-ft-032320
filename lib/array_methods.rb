@@ -1,5 +1,5 @@
 def using_include(array, element)
-array = [""summer", "fall", "winter", "spring""]
+
 array.include?("fall")
 array.include?("autumn")
 end
